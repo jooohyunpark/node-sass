@@ -1,2 +1,1 @@
-# node-sass
-node sass test
+This repo is for testing sass in native js.
